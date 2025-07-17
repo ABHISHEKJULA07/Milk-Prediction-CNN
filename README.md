@@ -1,4 +1,4 @@
-# Instructions
+# Deep Learning using CNN to predict Milk Quality Grade
 
 1. Create virtual env in current folder:
 
